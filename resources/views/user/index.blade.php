@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit est eveniet non accusantium, deleniti necessitatibus ex nisi vero! Quas perspiciatis aperiam facilis ipsam, nemo dolor numquam eveniet odio delectus magni.</p>
+<center>this is about page.</center>
 </body>
 
 </html>

@@ -30,10 +30,10 @@ Route::get('/about/users2/{name}/{name2}',function($name,$name2){
 	Echo "Hello $name $name2";
 });
 */
-Route::get('/about', function () {
-    return view('about');
+Route::get('/user', function () {
+    return view('/user.index');
 });
 
-Route::get('/member', function () {
-    return view('index');
+Route::get('/admin', function () {
+    return view('/admin.index');
 });
